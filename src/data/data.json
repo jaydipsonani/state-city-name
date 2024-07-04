@@ -1,0 +1,482 @@
+{
+  "India": {
+    "states": [
+      {
+        "state": "Andhra Pradesh",
+        "cities": [
+          {
+            "name": "Visakhapatnam",
+            "talukas": ["Bheemunipatnam", "Anakapalle", "Narsipatnam"]
+          },
+          {
+            "name": "Vijayawada",
+            "talukas": ["Vijayawada (Rural)", "Vijayawada (Urban)"]
+          },
+          {
+            "name": "Guntur",
+            "talukas": ["Guntur (Rural)", "Guntur (Urban)"]
+          }
+        ]
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "cities": [
+          {
+            "name": "Itanagar",
+            "talukas": ["Itanagar", "Naharlagun"]
+          },
+          {
+            "name": "Naharlagun",
+            "talukas": ["Naharlagun", "Banderdewa"]
+          },
+          {
+            "name": "Pasighat",
+            "talukas": ["Pasighat", "Ruksin"]
+          }
+        ]
+      },
+      {
+        "state": "Assam",
+        "cities": [
+          {
+            "name": "Guwahati",
+            "talukas": ["Guwahati", "Dispur"]
+          },
+          {
+            "name": "Dibrugarh",
+            "talukas": ["Dibrugarh East", "Dibrugarh West"]
+          },
+          {
+            "name": "Jorhat",
+            "talukas": ["Jorhat East", "Jorhat West"]
+          }
+        ]
+      },
+      {
+        "state": "Bihar",
+        "cities": [
+          {
+            "name": "Patna",
+            "talukas": ["Patna Sadar", "Barh", "Masaurhi"]
+          },
+          {
+            "name": "Gaya",
+            "talukas": ["Gaya Sadar", "Bodh Gaya"]
+          },
+          {
+            "name": "Bhagalpur",
+            "talukas": ["Bhagalpur Sadar", "Kahalgaon"]
+          }
+        ]
+      },
+      {
+        "state": "Chhattisgarh",
+        "cities": [
+          {
+            "name": "Raipur",
+            "talukas": ["Raipur", "Arang"]
+          },
+          {
+            "name": "Bhilai",
+            "talukas": ["Durg", "Bhilai"]
+          },
+          {
+            "name": "Bilaspur",
+            "talukas": ["Bilaspur", "Mungeli"]
+          }
+        ]
+      },
+      {
+        "state": "Goa",
+        "cities": [
+          {
+            "name": "Panaji",
+            "talukas": ["Tiswadi", "Pernem"]
+          },
+          {
+            "name": "Margao",
+            "talukas": ["Salcete", "Quepem"]
+          },
+          {
+            "name": "Vasco da Gama",
+            "talukas": ["Mormugao", "Sanguem"]
+          }
+        ]
+      },
+      {
+        "state": "Gujarat",
+        "cities": [
+          {
+            "name": "Ahmedabad",
+            "talukas": ["Daskroi", "Sanand"]
+          },
+          {
+            "name": "Surat",
+            "talukas": ["kamrej", "olpad", "vesu"]
+          },
+          {
+            "name": "Vadodara",
+            "talukas": ["Vadodara City", "Vadodara Rural"]
+          }
+        ]
+      },
+      {
+        "state": "Haryana",
+        "cities": [
+          {
+            "name": "Chandigarh",
+            "talukas": ["Chandigarh"]
+          },
+          {
+            "name": "Gurugram",
+            "talukas": ["Gurgaon", "Sohna"]
+          },
+          {
+            "name": "Faridabad",
+            "talukas": ["Faridabad", "Ballabgarh"]
+          }
+        ]
+      },
+      {
+        "state": "Himachal Pradesh",
+        "cities": [
+          {
+            "name": "Shimla",
+            "talukas": ["Shimla Urban", "Shimla Rural"]
+          },
+          {
+            "name": "Dharamshala",
+            "talukas": ["Dharamshala", "Palampur"]
+          },
+          {
+            "name": "Manali",
+            "talukas": ["Manali", "Naggar"]
+          }
+        ]
+      },
+      {
+        "state": "Jharkhand",
+        "cities": [
+          {
+            "name": "Ranchi",
+            "talukas": ["Ranchi Sadar", "Bundu"]
+          },
+          {
+            "name": "Jamshedpur",
+            "talukas": ["Jamshedpur", "Potka"]
+          },
+          {
+            "name": "Dhanbad",
+            "talukas": ["Dhanbad", "Jharia"]
+          }
+        ]
+      },
+      {
+        "state": "Karnataka",
+        "cities": [
+          {
+            "name": "Bengaluru",
+            "talukas": ["Bengaluru Urban", "Bengaluru Rural"]
+          },
+          {
+            "name": "Mysuru",
+            "talukas": ["Mysuru", "Nanjangud"]
+          },
+          {
+            "name": "Mangaluru",
+            "talukas": ["Mangaluru", "Bantwal"]
+          }
+        ]
+      },
+      {
+        "state": "Kerala",
+        "cities": [
+          {
+            "name": "Thiruvananthapuram",
+            "talukas": ["Thiruvananthapuram", "Nedumangad"]
+          },
+          {
+            "name": "Kochi",
+            "talukas": ["Kochi", "Aluva"]
+          },
+          {
+            "name": "Kozhikode",
+            "talukas": ["Kozhikode", "Vatakara"]
+          }
+        ]
+      },
+      {
+        "state": "Madhya Pradesh",
+        "cities": [
+          {
+            "name": "Bhopal",
+            "talukas": ["Bhopal", "Berasiya"]
+          },
+          {
+            "name": "Indore",
+            "talukas": ["Indore", "Depalpur"]
+          },
+          {
+            "name": "Gwalior",
+            "talukas": ["Gwalior", "Dabra"]
+          }
+        ]
+      },
+      {
+        "state": "Maharashtra",
+        "cities": [
+          {
+            "name": "Mumbai",
+            "talukas": ["Mumbai City", "Mumbai Suburban"]
+          },
+          {
+            "name": "Pune",
+            "talukas": ["Pune City", "Haveli"]
+          },
+          {
+            "name": "Nagpur",
+            "talukas": ["Nagpur", "Katol"]
+          }
+        ]
+      },
+      {
+        "state": "Manipur",
+        "cities": [
+          {
+            "name": "Imphal",
+            "talukas": ["Imphal East", "Imphal West"]
+          },
+          {
+            "name": "Thoubal",
+            "talukas": ["Thoubal", "Lilong"]
+          },
+          {
+            "name": "Bishnupur",
+            "talukas": ["Bishnupur", "Moirang"]
+          }
+        ]
+      },
+      {
+        "state": "Meghalaya",
+        "cities": [
+          {
+            "name": "Shillong",
+            "talukas": ["Shillong", "Mawphlang"]
+          },
+          {
+            "name": "Tura",
+            "talukas": ["Tura", "Rongram"]
+          },
+          {
+            "name": "Nongstoin",
+            "talukas": ["Nongstoin", "Mairang"]
+          }
+        ]
+      },
+      {
+        "state": "Mizoram",
+        "cities": [
+          {
+            "name": "Aizawl",
+            "talukas": ["Aizawl", "Tlungvel"]
+          },
+          {
+            "name": "Lunglei",
+            "talukas": ["Lunglei", "Hnahthial"]
+          },
+          {
+            "name": "Saiha",
+            "talukas": ["Saiha", "Lawngtlai"]
+          }
+        ]
+      },
+      {
+        "state": "Nagaland",
+        "cities": [
+          {
+            "name": "Kohima",
+            "talukas": ["Kohima", "Jakhama"]
+          },
+          {
+            "name": "Dimapur",
+            "talukas": ["Dimapur", "Chumukedima"]
+          },
+          {
+            "name": "Mokokchung",
+            "talukas": ["Mokokchung", "Tuli"]
+          }
+        ]
+      },
+      {
+        "state": "Odisha",
+        "cities": [
+          {
+            "name": "Bhubaneswar",
+            "talukas": ["Bhubaneswar", "Jatani"]
+          },
+          {
+            "name": "Cuttack",
+            "talukas": ["Cuttack Sadar", "Baranga"]
+          },
+          {
+            "name": "Rourkela",
+            "talukas": ["Rourkela", "Panposh"]
+          }
+        ]
+      },
+      {
+        "state": "Punjab",
+        "cities": [
+          {
+            "name": "Chandigarh",
+            "talukas": ["Chandigarh"]
+          },
+          {
+            "name": "Ludhiana",
+            "talukas": ["Ludhiana West", "Ludhiana East"]
+          },
+          {
+            "name": "Amritsar",
+            "talukas": ["Amritsar I", "Amritsar II"]
+          }
+        ]
+      },
+      {
+        "state": "Rajasthan",
+        "cities": [
+          {
+            "name": "Jaipur",
+            "talukas": ["Jaipur", "Amber"]
+          },
+          {
+            "name": "Jodhpur",
+            "talukas": ["Jodhpur", "Osian"]
+          },
+          {
+            "name": "Udaipur",
+            "talukas": ["Udaipur", "Girwa"]
+          }
+        ]
+      },
+      {
+        "state": "Sikkim",
+        "cities": [
+          {
+            "name": "Gangtok",
+            "talukas": ["Gangtok", "Pakyong"]
+          },
+          {
+            "name": "Namchi",
+            "talukas": ["Namchi", "Ravangla"]
+          },
+          {
+            "name": "Gyalshing",
+            "talukas": ["Gyalshing", "Soreng"]
+          }
+        ]
+      },
+      {
+        "state": "Tamil Nadu",
+        "cities": [
+          {
+            "name": "Chennai",
+            "talukas": ["Chennai North", "Chennai South"]
+          },
+          {
+            "name": "Coimbatore",
+            "talukas": ["Coimbatore North", "Coimbatore South"]
+          },
+          {
+            "name": "Madurai",
+            "talukas": ["Madurai North", "Madurai South"]
+          }
+        ]
+      },
+      {
+        "state": "Telangana",
+        "cities": [
+          {
+            "name": "Hyderabad",
+            "talukas": ["Hyderabad", "Secunderabad"]
+          },
+          {
+            "name": "Warangal",
+            "talukas": ["Warangal", "Hanamkonda"]
+          },
+          {
+            "name": "Nizamabad",
+            "talukas": ["Nizamabad", "Armoor"]
+          }
+        ]
+      },
+      {
+        "state": "Tripura",
+        "cities": [
+          {
+            "name": "Agartala",
+            "talukas": ["Agartala", "Bishalgarh"]
+          },
+          {
+            "name": "Udaipur",
+            "talukas": ["Udaipur", "Kakraban"]
+          },
+          {
+            "name": "Kailashahar",
+            "talukas": ["Kailashahar", "Dharmanagar"]
+          }
+        ]
+      },
+      {
+        "state": "Uttar Pradesh",
+        "cities": [
+          {
+            "name": "Lucknow",
+            "talukas": ["Lucknow", "Malihabad"]
+          },
+          {
+            "name": "Kanpur",
+            "talukas": ["Kanpur", "Bilhaur"]
+          },
+          {
+            "name": "Varanasi",
+            "talukas": ["Varanasi", "Ramnagar"]
+          }
+        ]
+      },
+      {
+        "state": "Uttarakhand",
+        "cities": [
+          {
+            "name": "Dehradun",
+            "talukas": ["Dehradun", "Rishikesh"]
+          },
+          {
+            "name": "Haridwar",
+            "talukas": ["Haridwar", "Roorkee"]
+          },
+          {
+            "name": "Roorkee",
+            "talukas": ["Roorkee", "Laksar"]
+          }
+        ]
+      },
+      {
+        "state": "West Bengal",
+        "cities": [
+          {
+            "name": "Kolkata",
+            "talukas": ["Kolkata", "South Dumdum"]
+          },
+          {
+            "name": "Howrah",
+            "talukas": ["Howrah", "Bally"]
+          },
+          {
+            "name": "Durgapur",
+            "talukas": ["Durgapur", "Kanksa"]
+          }
+        ]
+      }
+    ]
+  }
+}
